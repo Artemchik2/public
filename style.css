@@ -1,0 +1,51 @@
+    header{
+        background: black;
+    }
+
+    header img{
+    border:1px
+    }
+
+    header b{
+        color: red;
+    }
+
+
+    body {
+        font-family: sans-serif;
+    }
+    h1{
+    background-color: blue;
+    font-size: red;
+    }
+    footer p {
+        background-color: blue;
+        color:brown;
+    }
+    nav a{
+        background-color:red;
+        border-radius: 9px;
+        text-decoration: none;
+        padding:3px;
+    }
+    nav {
+        margin:3px;
+
+    }
+    p img{
+     background-color: red;
+     border-radius: 9px;
+    } 
+    .img{
+        background-color: red;
+        border-radius:9px;
+        
+    }
+    h2 {
+        color:blue;
+        font-size:20px;
+        
+    }
+    h2 p{
+        font-size:20px;
+    }
